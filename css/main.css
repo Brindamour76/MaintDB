@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+
+}
+
+main{
+    width: 800px;
+    margin-left: 65px;
+    background-color: blue;
+}
+
+header{
+    background-color: blueviolet;
+    height: 40px;
+    width: 100%;
+}

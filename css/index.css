@@ -1,3 +1,15 @@
+.header-strip{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
+.header-strip p{
+    /*This aligns up and down*/
+    align-self: center;
+}
+
+
 section{
     width: 100%;
     text-align: center;
@@ -5,6 +17,7 @@ section{
     padding-bottom: 20px;
 }
 
+
 .form-heading {
-    font-size: 20px;
+    font-size: 30px;
 }
